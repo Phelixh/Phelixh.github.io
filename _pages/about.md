@@ -8,7 +8,120 @@ redirect_from:
   - /about.html
 ---
 
-⚠️**Update of this website has stopped since Sept. 2021. My new website is [here](https://lu.seas.upenn.edu).**⚠️
+一、个人基本情况
+===========
+
+姓  名： 高飞
+
+性  别：男
+
+学  位：博士
+
+职  称： 教授
+
+所在系： 武汉理工大学数学系
+
+电子邮件：gaof@whut.edu.cn
+
+
+
+二、教育背景与工作经历
+===========
+
+2013/09 - 至今，武汉理工大学，理学院数学系，教授、Marie-Curie Fellow
+
+2011/11–2012/10，挪威科技大学(NTNU)，信息科技与数学及电子工程学院，博士后
+
+2008/03–2009/03，韩国科学技术研究院(KAIST)，电子系，博士后
+
+2007/12 - 2013/09，武汉理工大学，理学院数学系，副教授
+
+2003/09 - 2006/06，武汉理工大学，流体力学，博士
+
+1999/09 - 2002/06，武汉大学，应用数学，硕士
+
+1995/09 - 1999/07，武汉大学分校，数学教育
+
+ 
+
+三、研究方向
+===========
+
+详见 个人主页 http://feigao.weebly.com/
+
+1. 混沌、计算智能方法、最优化理论与方法。
+
+在使用计算智能方法建立复杂系统、反演混沌模型方面取得一系列理论成果，并将方法应用于混沌控制与同步、参数估计等领域。
+
+2. 统计计算
+
+统计计算方法若干模型与算法的改进
+
+ 
+
+四、教学研究
+===========
+
+1.   2016年主持的全英文《Calculus》课程入选第二期来华留学英语授课品牌课程省级课程。
+
+2.   2015-2018年指导本科生参加全国大学生数学建模竞赛和国际数学建模比赛，3次美国竞赛一等奖、5次获得美国竞赛二等奖；2次全国大学生数学建模竞赛国家一等奖，3次国家二等奖、省一、二等奖若干次。指导本科生参加全国大学生数学竞赛，获得2016湖北省一等奖2人、二等奖4人、三等奖2人；获2015年度国家二等奖1人，省1等奖1。
+
+3.   指导学生创新创业项目方面：获批国家级大学生创新计划三项（2015、2016结题、2018在研），同时结题项目效果显著，项目组本科生以第一作者发表EI论文3篇。
+
+ 
+
+五、科学研究
+===========
+
+5.1 项目
+===========
+
+1.   湖北省自然科学基金项目，分数阶超混沌的非Lyapunov重构研究、2015/01-2016/12、结题、主持
+
+2.   国家自然科学基金重大研究计划项目，非常规突发事件下社会群体心理与行为变化规律和机制、2014/01-2016/12、结题、参与
+
+3.   “Marie COFUND of the European Commission - ABCDE 项目，欧盟n°246016、Mathematical analysis on bio-inspired communication network theory、2011/11-2012/10、结题、主持
+
+4.   教育部(中国)留学科研启动基金项目，20111j0032、基于量子细菌趋化算法的非Lyapunov分析方法研究、2010/06-2011/12、结题、主持
+
+5.2 论文（60+篇）
+===========
+
+[1]     高飞, 胡道楠, 童恒庆, 王传美，分数阶Willis环脑迟发性动脉瘤时滞系统混沌分析(SCI)，物理学报，2018, Vol. 67 Issue (15): 150501.
+
+[2]     Fei Gao, Teng Li, Heng-qing Tong, Yan-fang Deng, Ou Zhuo-ling, Chaotic dynamic of the fractional Willis aneurysm system and its control(SCI), Acta Phys. Sin. Vol. 65, No. 23 (2016) 230502
+
+[3]     Fei Gao, Teng Lee, Wen-Jing Cao, Xue-jing Lee, Yan-fang Deng, Heng-qing Tong, Self-evolution of hyper fractional order chaos driven by a novel approach through genetic programming(SCI), Expert Systems with Applications, Volume 52, 15 June 2016, Pages 1–15
+
+[4]     Fei Gao, Feng-xia Fei, Xue-jing Lee, Heng-qing Tong, Yan-fang Deng, Hua-ling Zhao, Inversion mechanism with functional extrema model for identification incommensurate and hyper fractional chaos via differential evolution Original Research Article (SCI), Expert Systems with Applications, Volume 41, Issue 4, Part 2, March 2014, Pages 1915-1927
+
+[5]     Fei Gao, Xue-jing Lee, Feng-xia Fei, Heng-qing Tong, Yan-fang Deng, Hua-ling Zhao, Identification time-delayed fractional order chaos with functional extrema model via differential evolution Original Research Article(SCI ), Expert Systems with Applications, Volume 41, Issue 4, Part 2, March 2014, Pages 1601-1608
+
+[6]     Fei Gao,  Xue-Jing Lee, Heng-qing Tong, Feng-xia Fei, and Hua-ling Zhao, Identification of Unknown Parameters and Orders via Cuckoo Search Oriented Statistically by Differential Evolution for Noncommensurate Fractional-Order Chaotic Systems, Abstract and Applied Analysis(SCI), Volume 2013 (2013), Article ID 382834,  http://www.hindawi.com/journals/aaa/2013/382834/ ,
+
+[7]     Fei Gao, Xue-jing Lee, Feng-xia Fei, Heng-qing Tong, Yi-bo Qi, Yan-fang Deng, Ilangko Balasingham, Hua-ling Zhao, Parameter identification for Van Der Pol–Duffing oscillator by a novel artificial bee colony algorithm with differential evolution operators Original Research Article(SCI ), plied Mathematics and Computation, Volume 222, 1 October 2013, Pages 132-144
+
+[8]     Fei Gao, Feng-xia Fei, Yan-fang Deng, Yi-bo Qi, Balasingham Ilangko, A novel non-Lyapunov approach through artificial bee colony algorithm for detecting unstable periodic orbits with high orders Original Research Article (SCI),Expert Systems with Applications, Volume 39, Issue 16, 15 November 2012, Pages 12389-12397
+
+[9]     Fei Gao, Feng-xia Fei, Qian Xu, Yan-fang Deng, Yi-bo Qi, Ilangko Balasingham, A novel artificial bee colony algorithm with space contraction for unknown parameters identification and time-delays of chaotic systems Original Research Article (SCI), Applied Mathematics and Computation, Volume 219, Issue 2, 1 October 2012, Pages 552-568
+
+[10]  Fei Gao, Yibo Qi, Ilangko Balasingham, Qiang Yin, Hongrui Gao, A Novel non–Lyapunov way for detecting uncertain parameters of chaos system with random noises (SCI) Original Research Article, Expert Systems with Applications, Volume 39, Issue 2, 1 February 2012, Pages 1779-1783
+
+[11]  Fei Gao, Ju-Jang Lee, Zhuoqiu Li, Hengqing Tong, and Xiaohong L\"{u}. Parameter estimation for chaotic system with initial random noises by   particle swarm optimization. Chaos, Solitons & Fractals, (ISI Impact Factor: 3.315), Volume 42, Issue 2, 30 October 2009, Pages 1286-1291
+
+[12]  Fei Gao, Hongrui Gao, Zhuoqiu Li, Hengqing Tong, and Ju-Jang Lee. Detecting unstable periodic orbits of nonlinear mappings by a novel quantum-behaved particle swarm optimization non-lyapunov way. Chaos, Solitons & Fractals, (ISI Impact Factor: 3.315),,Volume 42, Issue 4, 30 November 2009, Pages 2450-2463
+
+[13]  Gao F., Li Z. Q., Tong H. Q. Parameters Estimation On-line for Lorenz System by A Novel Quantum-behaved Particle Swarm Optimization, Chinese Physics (SCI) ,2008 17(4):1196-1201
+
+[14]  Gao F., Tong H. Q. Parameter estimation for chaotic system based on particle swarm optimization, Acta Physica Sinica vol.55, no.2: 577-82 Feb. 2006 (SCI)
+
+[15]  Gao F., Tong H. Q. UEAS: A Novel United Evolutionary Algorithm Scheme, Lecture Notes in Computer Science (LNCS), vol 4234, pp 772-780, 2006. (SCI)
+
+[16]  Gao F., Tong H. Q. Particle swarm optimization: An efficient method for tracing periodic orbits and controlling chaos, Dynamics of Continuous Discrete & Impulsive Systems B-Applications & Algorithms 13: 780-784 Part 2 Suppl. S, DEC 2006. (SCI)
+
+[17]  Gao F., Tong H. Q. Differential evolution: An efficient method inoptimal PID tuning and on-line tuning, Dynamics of Continuous Discrete & Impulsive Systems B-Applications & Algorithms 13: 785--789 Part 2 Suppl. S, DEC 2006. (SCI)
+
+
 
 - I am an Assistant Professor in [Department of Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu) at [University of Pennsylvania](https://www.upenn.edu/).
 - **PhD & Postdoc Opening**: I am looking for PhD students and Postdocs to work on scientific machine learning starting from Fall 2021. Students in chemical engineering, mechanical engineering, applied mathematics, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested. For more information, please check the PhD programs in [Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu/doctoral/) and [Applied Mathematics and Computational Science](https://www.amcs.upenn.edu/applying/general-information).
