@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu Lu"
+title                    : "Fei GAO"
 title_separator          : "-"
-name                     : &name "Lu Lu"
-description              : &description "Assistant Professor, Department of Chemical and Biomolecular Engineering, University of Pennsylvania"
-url                      : https://lululxvi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fei GAO"
+description              : &description "Full Professor, Department of Mathematics, Wuhan University of Technology"
+url                      : https://Phelixh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lululxvi/lululxvi.github.io"
+repository               : "Phelixh/Phelixh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lu Lu"
+  name             : "Fei GAO"
   avatar           : "lulu.jpg"
-  bio              : "Assistant Professor, Department of Chemical and Biomolecular Engineering, University of Pennsylvania"
+  bio              : "Full Professor, Department of Mathematics, Wuhan University of Technology"
   location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en"
-  email            : "lulu1@seas.upenn.edu"
-  researchgate     : "https://www.researchgate.net/profile/Lu_Lu93"
+  email            : "gaof@whut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Fei-Gao-96"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lululxvi"
+  github           : "Phelixh"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "lu-lu-8505903b"
-  orcid            : "http://orcid.org/0000-0002-5476-5768"
+  linkedin         : # "lu-lu-8505903b"
+  orcid            : "http://orcid.org/0000-0003-2266-7263"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "6185009/lulu66"
