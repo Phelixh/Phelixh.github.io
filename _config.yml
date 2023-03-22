@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Fei GAO"
-  avatar           : "lulu.jpg"
+  avatar           : "Fei-Gao-96.jpg"
   bio              : "Full Professor, Department of Mathematics, Wuhan University of Technology"
   location         :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en"
   email            : "gaof@whut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Fei-Gao-96"
   uri              :
