@@ -47,7 +47,7 @@ redirect_from:
 三、研究方向
 ===========
 
-详见 个人主页 http://feigao.weebly.com/
+详见 个人主页 https://phelixh.github.io/
 
 1. 混沌、计算智能方法、最优化理论与方法。
 
