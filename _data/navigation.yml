@@ -3,23 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Patents"
-    url: /patents/
+ # - title: "Patents"
+ #   url: /patents/
 
   - title: "Awards"
     url: /awards/
 
-  - title: "Talks"
-    url: /talks/
+ # - title: "Talks"
+#    url: /talks/
 
-  - title: "Services"
-    url: /services/
+#  - title: "Services"
+#    url: /services/
 
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Softwares"
-    url: /softwares/
+  # - title: "Softwares"
+  #  url: /softwares/
 
   # - title: "Portfolio"
   #   url: /portfolio/
