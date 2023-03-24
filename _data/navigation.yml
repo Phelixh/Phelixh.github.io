@@ -9,11 +9,11 @@ main:
   - title: "Awards"
     url: /awards/
 
- # - title: "Talks"
-#    url: /talks/
+ - title: "Talks"
+   url: /talks/
 
   - title: "Services"
-   url: /services/
+    url: /services/
 
   - title: "Teaching"
     url: /teaching/  
